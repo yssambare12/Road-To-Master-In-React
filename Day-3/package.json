@@ -1,0 +1,14 @@
+{
+  "name": "second-day",
+  "version": "1.0.0",
+  "description": "This is day 2 learning of react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "yogesh sambare",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
