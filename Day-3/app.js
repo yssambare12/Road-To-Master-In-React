@@ -1,6 +1,6 @@
 const parent = React.createElement("div", {id:"parent"}, [React.createElement("div", {id:"child1",}, 
 [React.createElement("h1", {}, "this is first heading h1"),
- React.createElement("h2",{},"this is second heading h2")]
+ React.createElement("h2",{},"this is second heading h1")]
  ),
  React.createElement("div", {id:"child2",}, 
  [React.createElement("p", {}, "this is first paragraph"),
