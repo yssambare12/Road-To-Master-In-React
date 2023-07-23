@@ -8,7 +8,7 @@ const parent = React.createElement("div", {id:"parent"}, [React.createElement("d
   ),
   React.createElement("div", {id:"child3",}, 
   [React.createElement("li", {}, "this is first list item"),
-   React.createElement("li",{},"this is second list ")]
+   React.createElement("li",{},"this is second list item")]
    )]
    )
 const root = ReactDOM.createRoot(document.getElementById("root"));
